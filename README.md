@@ -1,4 +1,4 @@
-# Tema Tehnologii Web 
+# Tema Tehnologii Web  
 ## *Anul II, semestrul I*
 ---
 ### Personal website 
